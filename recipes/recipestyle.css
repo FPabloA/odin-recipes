@@ -1,0 +1,35 @@
+body{
+    background-color: #eee;
+}
+
+#recipe-title {
+    text-align: center;
+}
+
+#recipe-img {
+    height: auto;
+    width: 300px;
+    margin: auto;
+    display: block;
+    margin: auto;
+}
+
+#recipe-subtitle {
+    text-align: center;
+}
+
+#recipe-desc {
+    font-size: 20px;
+}
+
+#recipe-ingredients,
+#recipe-steps {
+    margin: 10px;
+    background-color: rgb(197, 235, 248);
+    font-size: 20px;
+}
+
+#return-link{
+    font-size: 20px;
+    margin: 10px;
+}

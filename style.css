@@ -1,0 +1,19 @@
+body{
+    background-color: #eee;
+}
+
+#index-title{
+    text-align: center;
+}
+
+.recipe-wrapper{
+    background-color: rgb(197, 235, 248);
+    padding: 10px;
+    margin: 40px 15px;
+}
+
+.recipe-link{
+    font-size: 32px;
+    display:block;
+    margin:10px;
+}
